@@ -1,0 +1,128 @@
+{
+  "id": "1804904",
+  "name": "Fquant量化icon",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "量化项目icon",
+  "glyphs": [
+    {
+      "icon_id": "14547222",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "14544858",
+      "name": "walt",
+      "font_class": "walt",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "14544110",
+      "name": "safe",
+      "font_class": "safe",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "14544076",
+      "name": "meil",
+      "font_class": "meil",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14544077",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "14544078",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "14543998",
+      "name": "add1",
+      "font_class": "add1",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "14543999",
+      "name": "look",
+      "font_class": "look",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "14544002",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14544003",
+      "name": "bg1",
+      "font_class": "bg1",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14544004",
+      "name": "record",
+      "font_class": "record",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "14544005",
+      "name": "person",
+      "font_class": "person",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14544006",
+      "name": "robot",
+      "font_class": "robot",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14544007",
+      "name": "peison",
+      "font_class": "peison",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14544008",
+      "name": "no_see",
+      "font_class": "no_see",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14544010",
+      "name": "robotbig1",
+      "font_class": "robotbig1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14544015",
+      "name": "rock",
+      "font_class": "rock",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

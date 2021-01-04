@@ -1,0 +1,46 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build",
+    "build-test": " export NODE_ENV_HUANJING=test&& umi build",
+    "build-dev": " export NODE_ENV_HUANJING=dev&& umi build",
+    "build-pre": " export NODE_ENV_HUANJING=pre&& umi build",
+    "build-online": " export NODE_ENV_HUANJING=online&& umi build",
+    "postinstall": "umi generate tmp",
+    "prettier": "prettier --write '**/*.{js,jsx,tsx,ts,less,md,json}'",
+    "test": "umi-test",
+    "test:coverage": "umi-test --coverage"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "dependencies": {
+    "@umijs/plugin-qiankun": "^2.1.1",
+    "@umijs/preset-react": "1.x",
+    "@umijs/test": "^3.1.1",
+    "classnames": "^2.2.6",
+    "immutable": "^4.0.0-rc.12",
+    "jquery": "^3.5.1",
+    "js-cookie": "^2.2.1",
+    "lint-staged": "^10.0.7",
+    "lodash": "^4.17.15",
+    "memoize-one": "^5.1.1",
+    "path-to-regexp": "^6.1.0",
+    "prettier": "^1.19.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.0.0",
+    "umi": "^3.1.1",
+    "validator": "^13.0.0",
+    "yorkie": "^2.0.0"
+  }
+}
